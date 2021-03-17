@@ -1,0 +1,500 @@
+   30  cd modulo 1
+   31  cd "modulo 1"
+   32  ls
+   33  clear
+   34  cd ..
+   35  cd ..
+   36  pwd
+   37  cd clases de toti/modulo 1
+   38  cd /clases de toti/modulo 1
+   39  cd "modulo 1"
+   40  clear
+   41  pwd
+   42  cd "clases de toti"
+   43  ls
+   44  cd modulo 1
+   45  cd "modulo 1"
+   46  ls
+   47  cd ferramentas 4
+   48  cd "ferramentas4"
+   49  cd "ferramentas 4"
+   50  cd ferramentas 4.pdf"
+   51  ls
+   52  cd..
+   53  clear
+   54  clear
+   55  pwd
+   56  clear
+   57  pwd
+   58  cd "clases de toti/modulo 1"
+   59  cd clases de toti
+   60  cd "clases de toti"
+   61  clear
+   62  pwd
+   63  cd documents/clases de toti
+   64  pwd
+   65  cd documents
+   66  ls
+   67  cd curriculus
+   68  ls
+   69  cd..
+   70  cd..
+   71  cd.
+   72  cd ..
+   73  cd dowload
+   74  cd "C:\dowload"
+   75  ls
+   76  cd clases de toti
+   77  ls
+   78  cd documents\clases de toti
+   79  ls
+   80  cd "clases de toti"
+   81  ls
+   82  cd modulo 1
+   83  cd "modulo 1"
+   84  ls
+   85  clear
+   86  cd ..
+   87  cd ..
+   88  cd ..
+   89  cd ..
+   90  clear
+   91  cd documents
+   92  cd \c\users\documents
+   93  ls
+   94  cd administrador
+   95  ls
+   96  cd documents
+   97  ls
+   98  cd ..
+   99  cd ..
+  100  ls
+  101  cd Elsi mi amorcito
+  102  cd "elsi mi amorcito"
+  103  ls
+  104  cd documents
+  105  ls
+  106  clera
+  107  clear
+  108  cd ..
+  109  cd ..
+  110  ls
+  111  cd ..
+  112  git config --global user.name "oscarromero"
+  113  git config --global user.email "arquitectologo381@gmail.com"
+  114  git config user.name
+  115  cd desktop
+  116  mkdir curso-git
+  117  ls
+  118  git init
+  119  git status
+  120  echo "# aprendendo usar o git" > readme.md
+  121  git status
+  122  git add read.md
+  123  git add readme.md
+  124  echo "##aula 1" >> readme.md
+  125  git status
+  126  git add.
+  127  git add readme.md
+  128  cd curso git
+  129  cd "curso git"
+  130  pwd
+  131  cd documents
+  132  ls
+  133  cd desktop
+  134  cd Area de trabalho
+  135  cd "Area de trabalho"
+  136  cd ..
+  137  cd area de trabalho
+  138  cd "Area de trabalho"
+  139  cd este computador
+  140  cd este computador
+  141  cd Estecomputador
+  142  clear
+  143  pwd
+  144  cd area de trabalho
+  145  cd Area de trabalho
+  146  cd "Area de trabalho"
+  147  cd "Areadetrabalho"
+  148  clear
+  149  git init
+  150  cd imagens
+  151  cd clases de toti
+  152  clear
+  153  git status
+  154  clear
+  155  cd ..
+  156  git init
+  157  cd ..
+  158  cd ..
+  159  cd .
+  160  cdd ..
+  161  clear
+  162  git config user name
+  163  ls
+  164  cd documents
+  165  clear
+  166  cd documents
+  167  ls
+  168  pwd
+  169  cd documents
+  170  clear
+  171  cd ..
+  172  cd..
+  173  cd documents
+  174  cd documents
+  175  ls
+  176  ls -la
+  177  mkdir curso_git
+  178  ls
+  179  git config user name
+  180  documents
+  181  cd documents
+  182  ls
+  183  cd ..
+  184  cd practica-agregando-estilo-css
+  185  cd practicas de bradesco
+  186  cd "practicas de bradesco"
+  187  ls
+  188  cd clases de toti
+  189  clear
+  190  documents
+  191  clear
+  192  cd documents
+  193  ls
+  194  cd practicas de bradesco
+  195  pwd
+  196  cd "practicas de bradesco"
+  197  ls
+  198  cd Exercicio1
+  199  ls
+  200  cd ..
+  201  cd ..
+  202  ls
+  203  cd intentando-otra-vez
+  204  ls
+  205  cd ..
+  206  cd curriculus
+  207  ls
+  208  cd adaptaciones para super mercados
+  209  cd "adaptaciones para super mercados"
+  210  ls
+  211  cd ..
+  212  cd ..
+  213  cd zoom
+  214  ls
+  215  cd ..
+  216  clear
+  217  cd documents
+  218  ls
+  219  cd "nuevo-intento"
+  220  ls
+  221  clear
+  222  ls -a
+  223  pwd
+  224  cd area de trabalho
+  225  ls
+  226  cd desktop
+  227  ls
+  228  cd ..
+  229  cd desktop
+  230  ls
+  231  ls ..
+  232  cd ..
+  233  cd ..
+  234  cd ..
+  235  ls ..
+  236  pwd
+  237  cd ..
+  238  cd usuarios
+  239  cd este computador/ disco c
+  240  cd c/usuarios/administrador
+  241  ls
+  242  ls -a
+  243  ls ..
+  244  ls .
+  245  ls ..
+  246  cd "Elsi Mi amorcito"
+  247  cd elsi mi amorcito
+  248  cd "Elsi Mi amorcito"
+  249  cd administrador
+  250  cd "Administrador"
+  251  cd ..
+  252  cd Administrador
+  253  ls
+  254  cd Downloads
+  255  ls
+  256  cd ..
+  257  ls
+  258  cd desktop
+  259  pwd
+  260  mkdir curso git
+  261  mkdir "curso git"
+  262  cd curso git
+  263  cd "curso git"
+  264  ls
+  265  pwd
+  266  mkdir "comandos"
+  267  cd " curso git"
+  268  ls
+  269  cd ..
+  270  mkdir -p comandos2\actuales
+  271  ls
+  272  cd..
+  273  cd ..
+  274  cd desktop
+  275  ls
+  276  cd "curso git"
+  277  mkdir -p comandos2\actuales
+  278  ls
+  279  cd comandos2actuales
+  280  ls
+  281  rm -r curso git
+  282  rm -r "curso git"
+  283  rm -r comandos2actuales
+  284  rm comandos2actuales
+  285  cd ..
+  286  cd ..
+  287  mv curso git "todo junto"
+  288  mv curso "todo aqui"
+  289  cd ..
+  290  cd Desktop/
+  291  mv todo aqui git
+  292  mv todo aqui "git"
+  293  ls
+  294  mv git todoaqui
+  295  ls
+  296  mv "todoaqui" todo aqui
+  297  mv "todoaqui" todo aqui
+  298  mv comandos2actuales "curso git"
+  299  ls
+  300  mv todo aqui "curso git"
+  301  mv "todo aqui" curso git
+  302  ls
+  303  rm -r todoaqui
+  304  ls
+  305  mv todo aqui "curso git"
+  306  mv "todo aqui" curso git
+  307  cd todo aqui
+  308  mv todo aqui "curso git"
+  309  cd curso git
+  310  cd ..
+  311  cd curso git
+  312  ls
+  313  cd Desktop/
+  314  ls
+  315  cd curso git
+  316  cd "curso git"
+  317  ls
+  318  cd ..
+  319  cd "todo aqui"
+  320  ls
+  321  mkdir "otra vez"
+  322  ls
+  323  rm -r "otra vez"
+  324  ls
+  325  cd todo aqui
+  326  cd ..
+  327  cd "todo aqui"
+  328  ls
+  329  rm -r "todo aqui"
+  330  cd ..
+  331  rm -r "todo aqui"
+  332  cd curso git
+  333  cd "curso git"
+  334  ls
+  335  rm -r "comandos2actuales
+  336  ls
+  337  rm -m "comandos2actuales"
+  338  cd ..
+  339  cd ..
+  340  ~
+  341  cd ~
+  342  clear
+  343  cd Desktop/
+  344  cd "cursogit"
+  345  cd "curso git"
+  346  ls
+  347  rm -r comandos
+  348  ls
+  349  mkdir azules primero
+  350  ls
+  351  mkdir "azules despues"
+  352  ls
+  353  rm -r "azules"
+  354  rm -r "primero"
+  355  ls
+  356  cd ..
+  357  mkdir "practica"
+  358  mv practica "curso git"
+  359  cd curso git
+  360  cd "curso git"
+  361  ls
+  362  rm -r "azules despues"
+  363  ls
+  364  cd curso git
+  365  cd "curso git"
+  366  cd Desktop/
+  367  cd curso git
+  368  cd "curso git"
+  369  ls
+  370  mkdir -p practica2/nuevos exercicios
+  371  ls
+  372  cd "practica2"
+  373  ls
+  374  cd ..
+  375  rm -r "nuevos"
+  376  cd practica2
+  377  rm -r nuevos
+  378  ls
+  379  cd .
+  380  cd ..
+  381  rm -r practica2
+  382  ls
+  383  rm -r exercicios
+  384  ls
+  385  mv comandos2actuales "ser constantes"
+  386  ls
+  387  cd ser constantes
+  388  cd "ser constantes"
+  389  ls
+  390  mkdir "perseverar"\siempre
+  391  cd ser vconstantes
+  392  ls
+  393  cd perseverarsiempre
+  394  mkdir siempre1/siempre2
+  395  cd ..
+  396  mkdir siempre1/siempre2
+  397  cd "perseverarsiempre"
+  398  mkdir siempre1/"siempre2
+  399  mkdir siempre1 "siempre2
+  400  cd ..
+  401  cd Desktop/
+  402  cd curso git
+  403  cd "curso git"
+  404  ls
+  405  cd "ser constante"
+  406  cd ..
+  407  cd " curso git"
+  408  cd "curso git"
+  409  ls
+  410  cd "practica"
+  411  ls
+  412  cd ;
+  413  cd Desktop/
+  414  cd "curso git"
+  415  ls
+  416  cd "ser constante"
+  417  cd " ser constantes"
+  418  cd "ser constantes"
+  419  ls
+  420  cd Desktop/
+  421  cd "curso git"
+  422  ls
+  423  cd "ser constantes"
+  424  ls
+  425  cd ..
+  426  mv "ser constantes" practica
+  427  ls
+  428  cd "practica"
+  429  ls
+  430  rm -r perseverar siempre
+  431  cd ..
+  432  mv "perseverarsiempre" practica
+  433  ls
+  434  cd "practica"
+  435  ls
+  436  mv perseverarsiempre/practica
+  437  cd ..
+  438  mkdir "nuevo_intento"
+  439  ls
+  440  cd "practica"
+  441  ls
+  442  mv "ser constantes" nuevo_intento
+  443  ls
+  444  mv nuevo_intento oootraveeeez
+  445  cd practica
+  446  ls
+  447  cd oootraveeeez
+  448  ls
+  449  cd ..
+  450  mv oootraveeeez/nuevo_intento
+  451  git config --global user.name "osedrom"
+  452  git config --global user.email "arquitectologo381@gmail.com"
+  453  git config user.name
+  454  cd Desktop/
+  455  mkdir "curso_got"
+  456  git config user name
+  457  git config user.name
+  458  git init
+  459  git status
+  460  echo "#aprendendo usar o git" > readme.md
+  461  git status
+  462  git add readme.md
+  463  git status
+  464  git commit -m "primera confirmacion"
+  465  git status
+  466  cd Documents/
+  467  ls
+  468  cd nuevo-intento
+  469  mkdir asi se hace
+  470  cd ..
+  471  cd primeiroprograma
+  472  ls
+  473  mkdir olaaaa
+  474  ls
+  475  clear
+  476  cd ..
+  477  ls
+  478  cd clases de toti
+  479  cd "clases de toti
+  480  ls
+  481  clear
+  482  clear
+  483  cd Documents/
+  484  ls
+  485  cd clases de toti
+  486  cd "clases de toti"
+  487  mkdir ola amigo
+  488  ls
+  489  mkdir "ola amigo"
+  490  ls
+  491  mkdir 
+  492  git config --global user.name "osedrom"
+  493  git config --glomal user.email "arquitectologo381@gmail.com"
+  494  git config --global user.name "osedrom"
+  495  git config --global user.email "arquitectologo381@gmail.com"
+  496  git config user.name
+  497  cd Desktop/
+  498  mkdir cursogit
+  499  cd cursogit
+  500  git config user.name
+  501  git init
+  502  git status
+  503  echo "#aprendendo usar o git" > readme.md
+  504  git status
+  505  git add readme.md 
+  506  status
+  507  git add readme.md 
+  508  status
+  509  git rm --cached readme.md 
+  510  status
+  511  pwd
+  512  ls
+  513  cd ..
+  514  cd cursogit
+  515  git add "readme.md" 
+  516  status
+  517  git status
+  518  git commit -m "mi primer commit"
+  519  git status
+  520  echo "##aula 1" >> readme.md 
+  521  git status
+  522  echo "oscarromero" > participantes.txt
+  523  git status
+  524  git add.
+  525  git add .
+  526  git status
+  527  git commit -am "mi segundo commit"
+  528  git status
+  529  history > aula3.txt
