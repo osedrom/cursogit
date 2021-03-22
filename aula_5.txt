@@ -1,0 +1,500 @@
+   36  cd curriculus
+   37  ls
+   38  cd adaptaciones para super mercados
+   39  cd "adaptaciones para super mercados"
+   40  ls
+   41  cd ..
+   42  cd ..
+   43  cd zoom
+   44  ls
+   45  cd ..
+   46  clear
+   47  cd documents
+   48  ls
+   49  cd "nuevo-intento"
+   50  ls
+   51  clear
+   52  ls -a
+   53  pwd
+   54  cd area de trabalho
+   55  ls
+   56  cd desktop
+   57  ls
+   58  cd ..
+   59  cd desktop
+   60  ls
+   61  ls ..
+   62  cd ..
+   63  cd ..
+   64  cd ..
+   65  ls ..
+   66  pwd
+   67  cd ..
+   68  cd usuarios
+   69  cd este computador/ disco c
+   70  cd c/usuarios/administrador
+   71  ls
+   72  ls -a
+   73  ls ..
+   74  ls .
+   75  ls ..
+   76  cd "Elsi Mi amorcito"
+   77  cd elsi mi amorcito
+   78  cd "Elsi Mi amorcito"
+   79  cd administrador
+   80  cd "Administrador"
+   81  cd ..
+   82  cd Administrador
+   83  ls
+   84  cd Downloads
+   85  ls
+   86  cd ..
+   87  ls
+   88  cd desktop
+   89  pwd
+   90  mkdir curso git
+   91  mkdir "curso git"
+   92  cd curso git
+   93  cd "curso git"
+   94  ls
+   95  pwd
+   96  mkdir "comandos"
+   97  cd " curso git"
+   98  ls
+   99  cd ..
+  100  mkdir -p comandos2\actuales
+  101  ls
+  102  cd..
+  103  cd ..
+  104  cd desktop
+  105  ls
+  106  cd "curso git"
+  107  mkdir -p comandos2\actuales
+  108  ls
+  109  cd comandos2actuales
+  110  ls
+  111  rm -r curso git
+  112  rm -r "curso git"
+  113  rm -r comandos2actuales
+  114  rm comandos2actuales
+  115  cd ..
+  116  cd ..
+  117  mv curso git "todo junto"
+  118  mv curso "todo aqui"
+  119  cd ..
+  120  cd Desktop/
+  121  mv todo aqui git
+  122  mv todo aqui "git"
+  123  ls
+  124  mv git todoaqui
+  125  ls
+  126  mv "todoaqui" todo aqui
+  127  mv "todoaqui" todo aqui
+  128  mv comandos2actuales "curso git"
+  129  ls
+  130  mv todo aqui "curso git"
+  131  mv "todo aqui" curso git
+  132  ls
+  133  rm -r todoaqui
+  134  ls
+  135  mv todo aqui "curso git"
+  136  mv "todo aqui" curso git
+  137  cd todo aqui
+  138  mv todo aqui "curso git"
+  139  cd curso git
+  140  cd ..
+  141  cd curso git
+  142  ls
+  143  cd Desktop/
+  144  ls
+  145  cd curso git
+  146  cd "curso git"
+  147  ls
+  148  cd ..
+  149  cd "todo aqui"
+  150  ls
+  151  mkdir "otra vez"
+  152  ls
+  153  rm -r "otra vez"
+  154  ls
+  155  cd todo aqui
+  156  cd ..
+  157  cd "todo aqui"
+  158  ls
+  159  rm -r "todo aqui"
+  160  cd ..
+  161  rm -r "todo aqui"
+  162  cd curso git
+  163  cd "curso git"
+  164  ls
+  165  rm -r "comandos2actuales
+  166  ls
+  167  rm -m "comandos2actuales"
+  168  cd ..
+  169  cd ..
+  170  ~
+  171  cd ~
+  172  clear
+  173  cd Desktop/
+  174  cd "cursogit"
+  175  cd "curso git"
+  176  ls
+  177  rm -r comandos
+  178  ls
+  179  mkdir azules primero
+  180  ls
+  181  mkdir "azules despues"
+  182  ls
+  183  rm -r "azules"
+  184  rm -r "primero"
+  185  ls
+  186  cd ..
+  187  mkdir "practica"
+  188  mv practica "curso git"
+  189  cd curso git
+  190  cd "curso git"
+  191  ls
+  192  rm -r "azules despues"
+  193  ls
+  194  cd curso git
+  195  cd "curso git"
+  196  cd Desktop/
+  197  cd curso git
+  198  cd "curso git"
+  199  ls
+  200  mkdir -p practica2/nuevos exercicios
+  201  ls
+  202  cd "practica2"
+  203  ls
+  204  cd ..
+  205  rm -r "nuevos"
+  206  cd practica2
+  207  rm -r nuevos
+  208  ls
+  209  cd .
+  210  cd ..
+  211  rm -r practica2
+  212  ls
+  213  rm -r exercicios
+  214  ls
+  215  mv comandos2actuales "ser constantes"
+  216  ls
+  217  cd ser constantes
+  218  cd "ser constantes"
+  219  ls
+  220  mkdir "perseverar"\siempre
+  221  cd ser vconstantes
+  222  ls
+  223  cd perseverarsiempre
+  224  mkdir siempre1/siempre2
+  225  cd ..
+  226  mkdir siempre1/siempre2
+  227  cd "perseverarsiempre"
+  228  mkdir siempre1/"siempre2
+  229  mkdir siempre1 "siempre2
+  230  cd ..
+  231  cd Desktop/
+  232  cd curso git
+  233  cd "curso git"
+  234  ls
+  235  cd "ser constante"
+  236  cd ..
+  237  cd " curso git"
+  238  cd "curso git"
+  239  ls
+  240  cd "practica"
+  241  ls
+  242  cd ;
+  243  cd Desktop/
+  244  cd "curso git"
+  245  ls
+  246  cd "ser constante"
+  247  cd " ser constantes"
+  248  cd "ser constantes"
+  249  ls
+  250  cd Desktop/
+  251  cd "curso git"
+  252  ls
+  253  cd "ser constantes"
+  254  ls
+  255  cd ..
+  256  mv "ser constantes" practica
+  257  ls
+  258  cd "practica"
+  259  ls
+  260  rm -r perseverar siempre
+  261  cd ..
+  262  mv "perseverarsiempre" practica
+  263  ls
+  264  cd "practica"
+  265  ls
+  266  mv perseverarsiempre/practica
+  267  cd ..
+  268  mkdir "nuevo_intento"
+  269  ls
+  270  cd "practica"
+  271  ls
+  272  mv "ser constantes" nuevo_intento
+  273  ls
+  274  mv nuevo_intento oootraveeeez
+  275  cd practica
+  276  ls
+  277  cd oootraveeeez
+  278  ls
+  279  cd ..
+  280  mv oootraveeeez/nuevo_intento
+  281  git config --global user.name "osedrom"
+  282  git config --global user.email "arquitectologo381@gmail.com"
+  283  git config user.name
+  284  cd Desktop/
+  285  mkdir "curso_got"
+  286  git config user name
+  287  git config user.name
+  288  git init
+  289  git status
+  290  echo "#aprendendo usar o git" > readme.md
+  291  git status
+  292  git add readme.md
+  293  git status
+  294  git commit -m "primera confirmacion"
+  295  git status
+  296  cd Documents/
+  297  ls
+  298  cd nuevo-intento
+  299  mkdir asi se hace
+  300  cd ..
+  301  cd primeiroprograma
+  302  ls
+  303  mkdir olaaaa
+  304  ls
+  305  clear
+  306  cd ..
+  307  ls
+  308  cd clases de toti
+  309  cd "clases de toti
+  310  ls
+  311  clear
+  312  clear
+  313  cd Documents/
+  314  ls
+  315  cd clases de toti
+  316  cd "clases de toti"
+  317  mkdir ola amigo
+  318  ls
+  319  mkdir "ola amigo"
+  320  ls
+  321  mkdir 
+  322  git config --global user.name "osedrom"
+  323  git config --glomal user.email "arquitectologo381@gmail.com"
+  324  git log
+  325  git log --pretty=oneline
+  326  git log --stat
+  327  git -p
+  328  history
+  329  pwd
+  330  ls
+  331  cd ejemplo1
+  332  ls
+  333  cd ..
+  334  git init
+  335  git status
+  336  git add ejemplo/1
+  337  cd .
+  338  ls
+  339  cd ejemplo1
+  340  ls
+  341  git status
+  342  git add ejemplo1
+  343  git log -c
+  344  CD Desktop/
+  345  GIT LOG
+  346  git log -c
+  347  pwd
+  348  git log -c
+  349  git log --since=1.days
+  350  git log --author="osedrom"
+  351  git config --global user.name"osedrom"
+  352  git config --global user.email"arquitectologo381@gmail.com
+  353  git config user.name
+  354  git log
+  355  git log
+  356  git log
+  357  git config --global user.name "osedrom"
+  358  git config --global user.email "arquitectologo38@hotmail.com"
+  359  git config user.name
+  360  git config user.email
+  361  histiry
+  362  history
+  363  log
+  364  git log --prety=oneline
+  365  git log
+  366  pwd
+  367  git log
+  368  git log --pretty=oneline
+  369  git log --stat
+  370  git log -p
+  371  git log -p
+  372  git log --stat
+  373  git log --since 1.day
+  374  git log --author="osedrom"
+  375  git log --stat
+  376  git log --author="osedrom"
+  377  git status
+  378  touch teste
+  379  git atatus
+  380  git status
+  381  git add teste
+  382  git status
+  383  git commite -m "agregei commit de teste"
+  384  git log
+  385  git log --pretty=oneline
+  386  ls
+  387  git status
+  388  cd ..
+  389  ls
+  390  cd readme.md
+  391  ls
+  392  mkdir editar el texto.txt readme.md
+  393  mkdir editar texto.txt
+  394  ls
+  395  git rm --cached editar
+  396  git branch
+  397  git checkout -b feature
+  398  git branch
+  399  touch nova_feature
+  400  git status
+  401  git add nova_feature
+  402  git commit "adicionando nova feature
+  403  git log
+  404  git status
+  405  git branch
+  406  git checkout -b feature
+  407  ls
+  408  git log
+  409  pwd
+  410  ls
+  411  git checkout master
+  412  git checkout head~2
+  413  git reset --soft hash
+  414  git log --since=20.min
+  415  git checkout master
+  416  git branch -d nova_feature
+  417  git branch -d feature
+  418  git log
+  419  pwd
+  420  git branch -b feature
+  421  git checkuot -b feature
+  422  git --help
+  423  git branch
+  424  git checkout -b feature
+  425  touch "nova_feature"
+  426  ls
+  427  git branch
+  428  git status
+  429  pwd
+  430  ls
+  431  rm el
+  432  git branch master
+  433  git checkout master
+  434  git branch -d feature
+  435  git log
+  436  clear
+  437  pwd
+  438  git brach -b feature
+  439  git branch -b feature
+  440  git branch -b feature
+  441  git checkout -b feature
+  442  git branch
+  443  touch "nova_feature"
+  444  git status
+  445  git commit "adicionando nova_feature"
+  446  git status
+  447  git log
+  448  git restore --stage nova_feature
+  449  git status
+  450  git add nova_feature
+  451  git commit "adicione nova_feature
+  452  git status
+  453  git commit "adicione nova_feature"
+  454  git status
+  455  git branch
+  456  ls
+  457  git log
+  458  git checkout master
+  459  git branch -d feature
+  460  git branch
+  461  git log
+  462  git branch
+  463  git checkout -b feature
+  464  git branch
+  465  touch nova_feature
+  466  git status 
+  467  git commit "adicionando nova_feature"
+  468  git restore --stage nova_feature
+  469  git status
+  470  git add nova_feature
+  471  git commit "adicionando nova_feature"
+  472  git restore --stage teste
+  473  git status
+  474  git add teste
+  475  git status
+  476  git commit "adicionando nova_feature"
+  477  git branch
+  478  touch nova_feature
+  479  git status
+  480  git restore --stage nova_feature
+  481  git restore --staged teste
+  482  git status
+  483  git add nova_feature
+  484  git add teste
+  485  git status
+  486  git commi -m "adicionando nova_feature"
+  487  git commit -m adicionando nova_feature"
+  488  git status
+  489  git commit -m adicionando nova_feature
+  490  git status
+  491  clear
+  492  git branch
+  493  touch nova_feature
+  494  git status
+  495  git restore --staged nova_feature
+  496  git status
+  497  git add nova_feature
+  498  git commit -m "adicionando nova_feature"  
+  499  git log
+  500  git checkout master
+  501  git status
+  502  git log
+  503  touch continuando_master
+  504  git add continuando_master 
+  505  git commit -m "adicionando continuaçao na master" 
+  506  git log
+  507  git checkout feature
+  508  git log
+  509  git checkout -b feature2 master
+  510  git log
+  511  git master feature
+  512  git checkout naster
+  513  git checkout master
+  514  git checkout feature
+  515  git checkout -b feature3 feature
+  516  git log
+  517  git checkout feature
+  518  git branch -d feature3
+  519  git checkout master
+  520  git branch -d feature2
+  521  git log
+  522  git checkout feature3
+  523  git checkout feature2
+  524  clear
+  525  git checkout feature
+  526  git log --pretty=oneline--graph
+  527  git log --pretty=oneline
+  528  git merge master
+  529  git log
+  530  git log --pretty=oneline --graph
+  531  git reset --hard HEAD~
+  532  git log
+  533  git rebase master
+  534  git log --pretty=oneline --graph
+  535  history > aula_5.txt
