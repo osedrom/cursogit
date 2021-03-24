@@ -1,0 +1,500 @@
+   22  mv "perseverarsiempre" practica
+   23  ls
+   24  cd "practica"
+   25  ls
+   26  mv perseverarsiempre/practica
+   27  cd ..
+   28  mkdir "nuevo_intento"
+   29  ls
+   30  cd "practica"
+   31  ls
+   32  mv "ser constantes" nuevo_intento
+   33  ls
+   34  mv nuevo_intento oootraveeeez
+   35  cd practica
+   36  ls
+   37  cd oootraveeeez
+   38  ls
+   39  cd ..
+   40  mv oootraveeeez/nuevo_intento
+   41  git config --global user.name "osedrom"
+   42  git config --global user.email "arquitectologo381@gmail.com"
+   43  git config user.name
+   44  cd Desktop/
+   45  mkdir "curso_got"
+   46  git config user name
+   47  git config user.name
+   48  git init
+   49  git status
+   50  echo "#aprendendo usar o git" > readme.md
+   51  git status
+   52  git add readme.md
+   53  git status
+   54  git commit -m "primera confirmacion"
+   55  git status
+   56  cd Documents/
+   57  ls
+   58  cd nuevo-intento
+   59  mkdir asi se hace
+   60  cd ..
+   61  cd primeiroprograma
+   62  ls
+   63  mkdir olaaaa
+   64  ls
+   65  clear
+   66  cd ..
+   67  ls
+   68  cd clases de toti
+   69  cd "clases de toti
+   70  ls
+   71  clear
+   72  clear
+   73  cd Documents/
+   74  ls
+   75  cd clases de toti
+   76  cd "clases de toti"
+   77  mkdir ola amigo
+   78  ls
+   79  mkdir "ola amigo"
+   80  ls
+   81  mkdir 
+   82  git config --global user.name "osedrom"
+   83  git config --glomal user.email "arquitectologo381@gmail.com"
+   84  git log
+   85  git log --pretty=oneline
+   86  git log --stat
+   87  git -p
+   88  history
+   89  pwd
+   90  ls
+   91  cd ejemplo1
+   92  ls
+   93  cd ..
+   94  git init
+   95  git status
+   96  git add ejemplo/1
+   97  cd .
+   98  ls
+   99  cd ejemplo1
+  100  ls
+  101  git status
+  102  git add ejemplo1
+  103  git log -c
+  104  CD Desktop/
+  105  GIT LOG
+  106  git log -c
+  107  pwd
+  108  git log -c
+  109  git log --since=1.days
+  110  git log --author="osedrom"
+  111  git config --global user.name"osedrom"
+  112  git config --global user.email"arquitectologo381@gmail.com
+  113  git config user.name
+  114  git log
+  115  git log
+  116  git log
+  117  git config --global user.name "osedrom"
+  118  git config --global user.email "arquitectologo38@hotmail.com"
+  119  git config user.name
+  120  git config user.email
+  121  histiry
+  122  history
+  123  log
+  124  git log --prety=oneline
+  125  git log
+  126  pwd
+  127  git log
+  128  git log --pretty=oneline
+  129  git log --stat
+  130  git log -p
+  131  git log -p
+  132  git log --stat
+  133  git log --since 1.day
+  134  git log --author="osedrom"
+  135  git log --stat
+  136  git log --author="osedrom"
+  137  git status
+  138  touch teste
+  139  git atatus
+  140  git status
+  141  git add teste
+  142  git status
+  143  git commite -m "agregei commit de teste"
+  144  git log
+  145  git log --pretty=oneline
+  146  ls
+  147  git status
+  148  cd ..
+  149  ls
+  150  cd readme.md
+  151  ls
+  152  mkdir editar el texto.txt readme.md
+  153  mkdir editar texto.txt
+  154  ls
+  155  git rm --cached editar
+  156  git branch
+  157  git checkout -b feature
+  158  git branch
+  159  touch nova_feature
+  160  git status
+  161  git add nova_feature
+  162  git commit "adicionando nova feature
+  163  git log
+  164  git status
+  165  git branch
+  166  git checkout -b feature
+  167  ls
+  168  git log
+  169  pwd
+  170  ls
+  171  git checkout master
+  172  git checkout head~2
+  173  git reset --soft hash
+  174  git log --since=20.min
+  175  git checkout master
+  176  git branch -d nova_feature
+  177  git branch -d feature
+  178  git log
+  179  pwd
+  180  git branch -b feature
+  181  git checkuot -b feature
+  182  git --help
+  183  git branch
+  184  git checkout -b feature
+  185  touch "nova_feature"
+  186  ls
+  187  git branch
+  188  git status
+  189  pwd
+  190  ls
+  191  rm el
+  192  git branch master
+  193  git checkout master
+  194  git branch -d feature
+  195  git log
+  196  clear
+  197  pwd
+  198  git brach -b feature
+  199  git branch -b feature
+  200  git branch -b feature
+  201  git checkout -b feature
+  202  git branch
+  203  touch "nova_feature"
+  204  git status
+  205  git commit "adicionando nova_feature"
+  206  git status
+  207  git log
+  208  git restore --stage nova_feature
+  209  git status
+  210  git add nova_feature
+  211  git commit "adicione nova_feature
+  212  git status
+  213  git commit "adicione nova_feature"
+  214  git status
+  215  git branch
+  216  ls
+  217  git log
+  218  git checkout master
+  219  git branch -d feature
+  220  git branch
+  221  git log
+  222  git branch
+  223  git checkout -b feature
+  224  git branch
+  225  touch nova_feature
+  226  git status 
+  227  git commit "adicionando nova_feature"
+  228  git restore --stage nova_feature
+  229  git status
+  230  git add nova_feature
+  231  git commit "adicionando nova_feature"
+  232  git restore --stage teste
+  233  git status
+  234  git add teste
+  235  git status
+  236  git commit "adicionando nova_feature"
+  237  git branch
+  238  touch nova_feature
+  239  git status
+  240  git restore --stage nova_feature
+  241  git restore --staged teste
+  242  git status
+  243  git add nova_feature
+  244  git add teste
+  245  git status
+  246  git commi -m "adicionando nova_feature"
+  247  git commit -m adicionando nova_feature"
+  248  git status
+  249  git commit -m adicionando nova_feature
+  250  git status
+  251  clear
+  252  clear
+  253  history
+  254  history25
+  255  git config --global user.name "osedrom"
+  256  git config --global user.email "arquitectologo381@gmail.com
+  257  git config --global user.email "arquitectologo38@hotmail.com"
+  258  git config user.name
+  259  git config user.name
+  260  git config user.email
+  261  git init
+  262  git status
+  263  echo "#Aprendendo usar o git > readme.md
+  264  git status
+  265  echo "#aprendendo usar o git2 > readme.md
+  266  git status
+  267  git add readme.md 
+  268  git status
+  269  git commit "commit inicial"
+  270  git commit -c "commit inicial"
+  271  git commit -c "adicionando commit inicial"
+  272  git status
+  273  git rm --cached readme.md
+  274  git status
+  275  git add.
+  276  git commit "adicionando el primer commit con add."
+  277  git add readme.md
+  278  git status
+  279  git commit -m adicionando meu primeiro commit"
+  280  git status
+  281  history
+  282  git status
+  283  cd cursogit2
+  284  pwd
+  285  ls
+  286  echo ## aula 1 >> readme.md
+  287  git status
+  288  git rm --cached readme.md
+  289  git status
+  290  git add readme.md
+  291  git commit -m modificacao1
+  292  echo "## aula 1 >> readme.md 
+  293  git status
+  294  git status
+  295  clear
+  296  git status
+  297  ls
+  298  pwd
+  299  echo 1
+  300  echo "##aula 1" readme.md
+  301  git status
+  302  git restore --stage readme.md
+  303  git status
+  304  echo "aula 1" >> readme.md
+  305  git status
+  306  echo "oscar romero" > participantes.txt 
+  307  git status
+  308  git add .
+  309  git status
+  310  git restore --staged participantes.txt
+  311  git status
+  312  git add participantes.txt 
+  313  git status
+  314  git restore --stage .
+  315  git status
+  316  git commit -am "alteracao no readme"
+  317  git status
+  318  git add participantes.txt 
+  319  git status
+  320  git commit -m "adicionando participantes.txt"
+  321  history >Aula_3.txt
+  322  git add Aula_3.txt 
+  323  git commit "Aula_3"
+  324  git status
+  325  git add readme.md 
+  326  git commit Aula_3
+  327  git add .
+  328  git status
+  329  clear
+  330  git log
+  331  git log
+  332  git config --global user.name
+  333  git config --global user.email
+  334  git init
+  335  git status
+  336  echo "#aprendendo usar o git" > readme.md
+  337  git status
+  338  git add readme.md 
+  339  git status
+  340  git commit -m "commit inicial"
+  341  git status
+  342  echo "##aula 1 >> readme.md
+  343  git status
+  344  git status
+  345  git status
+  346  echo "oscar" > participantes.txt
+  347  git status
+  348  history
+  349  echo "aprendendo usar o git" readme.md
+  350  git status
+  351  git log
+  352  git add participantes.txt
+  353  git add .
+  354  git status
+  355  git add readme.md 
+  356  git status
+  357  git commit -m adicionando participantes
+  358  git log
+  359  git config user.name
+  360  git config user.email
+  361  git init
+  362  git status
+  363  echo "#aprendendo usar o git" > readme.md
+  364  git status
+  365  git add readme.md 
+  366  git status
+  367  git commit -m "commit inicial" este es el intento #6
+  368  git rm --cached readme.md
+  369  git status
+  370  git add readme.md
+  371  git status
+  372  git rm --cached readme.md
+  373  git status
+  374  git add .
+  375  git commit -m "commit inicial intento #7"
+  376  git status
+  377  echo "##aula 1 >> readme.md
+  378  git status
+  379  clear
+  380  clear
+  381  cd ..
+  382  ls
+  383  git status
+  384  echo "##aula 1" >>readme.md
+  385  git status
+  386  echo "oscar romero" >participantes.txt
+  387  git status
+  388  git add .
+  389  git status
+  390  git restore  --staged participantes.txt
+  391  git status
+  392  git add participantes.txt 
+  393  git status
+  394  git restore --staged .
+  395  git status
+  396  git commit -am "alteraco do readme"
+  397  git status
+  398  git add participantes.txt 
+  399  git status
+  400  git commit -m "adicionando participante.txt
+  401  git status
+  402  git status
+  403  git commit -m "adicionando participantes.txt
+  404  git restore --staged participantes.txt 
+  405  git status
+  406  ls
+  407  git status
+  408  git restore --staged participantes.txt
+  409  git status
+  410  git add participantes.txt 
+  411  git status
+  412  git commit -m "adicionando participantes.txt
+  413  git status
+  414  git add participantes.txt 
+  415  git sytatus
+  416  git status
+  417  git add .
+  418  git atatus
+  419  git status
+  420  git commit "adicionando participantes txt
+  421  git log
+  422  ls
+  423  git log
+  424  history
+  425  git config user.name
+  426  git config user.email
+  427  git init
+  428  git status
+  429  git config user.name
+  430  git config user.email
+  431  git status
+  432  echo "#Aprendendo usar o git" > readme.md
+  433  git status
+  434  git add readme
+  435  git add readme.md 
+  436  git commit -m "commit inicial 8 despues de muuucha practica"
+  437  git status
+  438  echo ## aula 1 >>readme.md
+  439  git status
+  440  echo "## aula 1" readme.md
+  441  git status
+  442  echo "## aula 1" >> readme.md 
+  443  git status
+  444  echo "oscar romero" participantes .txt
+  445  git status
+  446  echo "oscar romero" > participantes.txt
+  447  git status
+  448  git add .
+  449  git status
+  450  git restore --staged participantes.txt
+  451  git status
+  452  git add participantes.txt 
+  453  git status
+  454  git restore --staged .
+  455  git status
+  456  git commit -am "alteracao no readme"
+  457  git status
+  458  git add participantes.txt 
+  459  git status
+  460  git commit -m "adicionando participantes.txt
+  461  git status
+  462  git commit "adicionando participantes.txt
+  463  git status
+  464  git status
+  465  git commit "adicionando participantes.txt
+  466  git status
+  467  git restore --staged participantes.txt
+  468  git sttatus
+  469  git status
+  470  git add participantes.txt 
+  471  git status
+  472  git commit -m "adicionando participantes.txt
+  473  clear
+  474  git log
+  475  git log
+  476  git log
+  477  git log
+  478  git log --pretty=oneline
+  479  git log --pretty=oneline
+  480  git log --pretty=oneline
+  481  git log --pretty=oneline
+  482  git branch
+  483  ls
+  484  git checkout master
+  485  ls
+  486  git status
+  487  git log
+  488  git log --pretty=oneline --graph
+  489  git checkout feature
+  490  git log --pretty=oneline --graph
+  491  git merge master
+  492  git checkout master
+  493  git merge feature
+  494  git log --pretty=oneline --graph
+  495  git checkout feature
+  496  git log
+  497  git reset --hard HEAD~
+  498  git log --pretty=oneline --graph
+  499  git rebase master
+  500  git log --pretty=oneline --graph
+  501  history > aula_5.txt
+  502  git add aula_5.txt 
+  503  git commit -m "comandos da aula 5"
+  504  git log --pretty=oneline
+  505  clear
+  506  git config --global alias.logpg "log --pretty=oneline --graph"
+  507  git logpg
+  508  git config --global alias.logpl "log --pretty=oneline"
+  509  git logpl
+  510  git config alias.CAM "commit -am"
+  511  git CAM
+  512  git config alias.CAM "commit -m"
+  513  git CAM
+  514  git tag -a v0.1 -m "ate a aula 5"
+  515  git logpg
+  516  git checkout master
+  517  git rebase feature
+  518  git logpg
+  519  history > aula 6.txt
+  520  git add aula 6.txt
+  521  history > aula_6.txt
