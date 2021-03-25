@@ -74,9 +74,9 @@ ___
 
 ## Aula 9
  O que foi o que eu aprendi?
-- Convidando contribuintes
-- Fazendo um fork (cópia) de um projeto no GitHub
-- Fazendo uma sugestão de melhora - pull request
-- GitHub pages - páginas
+1. Convidando contribuintes
+1. Fazendo um fork (cópia) de um projeto no GitHub
+1. Fazendo uma sugestão de melhora - pull request
+1. GitHub pages - páginas
 
 
